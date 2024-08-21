@@ -1,1 +1,1 @@
-# React-landing-page
+# Small react projects
